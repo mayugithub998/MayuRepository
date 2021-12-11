@@ -7,5 +7,7 @@ fas
 gf
 asgd
 asdf
+<<<<<<< HEAD
 sdfasdfasdfasdfasdfasdfae edit by hot_fix
-hot_fix
+hot_f
+
