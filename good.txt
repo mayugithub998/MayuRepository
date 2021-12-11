@@ -8,3 +8,4 @@ gf
 asgd
 asdf
 asdfasdfasdfasdfasdfasdfae edit by hot_fix
+new line by master
