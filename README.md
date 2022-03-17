@@ -1,7 +1,7 @@
 # element-ui
 
 ## Project setup
-```
+```aa
 npm install
 ```
 
